@@ -102,10 +102,10 @@
     </mailingLists>
 
     <modules>
-        <module>test-commons</module>
-        <module>client</module>
+        <!-- <module>test-commons</module>
+        <module>client</module> -->
         <module>core</module>
-        <module>object</module>
+        <!-- <module>object</module>
         <module>server</module>
         <module>tools</module>
         <module>tests</module>
@@ -117,7 +117,7 @@
         <module>etl</module>
         <module>distribution</module>
         <module>distribution-tp2</module>
-        <module>crashtests</module>
+        <module>crashtests</module> -->
     </modules>
 
     <scm>
